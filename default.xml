@@ -69,7 +69,7 @@
 
   <project path="cookers" name="cookers" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="bionic" name="android_bionic" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
-  <project path="frameworks/av" name="frameworks_av" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="frameworks/ex" name="android_frameworks_ex" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="frameworks/opt/net/ethernet" name="android_frameworks_opt_net_ethernet" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
