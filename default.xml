@@ -66,6 +66,7 @@
   <project path="device/wfd-proprietary" name="android_device_wfd-proprietary" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="device/fsl" name="android_device_fsl" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="device/ti" name="android_device_ti" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
+  <project path="device/common" name="android_device_common" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga"/>
 
   <project path="cookers" name="cookers" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="bionic" name="android_bionic" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
@@ -93,7 +94,6 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
-  <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
