@@ -31,6 +31,7 @@
   <project path="system/vold" name="android_system_vold" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
 
   <!-- projects added by NutsBoard -->
+  <project path="external/can-utils" name="android_external_can-utils" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="external/i2c-tools" name="android_external_i2ctools" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="external/picocom" name="android_external_picocom" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
