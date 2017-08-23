@@ -63,7 +63,6 @@
   <project path="packages/apps/Settings" name="android_packages_apps_settings" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="packages/apps/SoundRecorder" name="android_packages_apps_soundrecorder" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="packages/apps/fsl_imx_demo" name="android_packages_apps_fsl_imx_demo" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
-  <project path="packages/apps/Supersu" name="android_packages_apps_Supersu" remote="nutsboard-github" revision="nutsboard_N7.1.1_2.0.0-ga" />
 
   <project path="device/fsl-codec" name="android_device_fsl-codec" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="device/fsl-proprietary" name="android_device_fsl-proprietary" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
