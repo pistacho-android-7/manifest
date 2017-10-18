@@ -27,7 +27,7 @@
   <project path="system/core" name="android_system_core" remote="nutsboard-github" revision="nutsboard_N7.1.1_2.0.0-ga" />
   <project path="system/extras" name="android_system_extras" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
   <project path="system/netd" name="android_system_netd" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
-  <project path="system/sepolicy" name="android_system_sepolicy" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
+  <project path="system/sepolicy" name="android_system_sepolicy" remote="nutsboard-github" revision="nutsboard_N7.1.1_2.0.0-ga" />
   <project path="system/vold" name="android_system_vold" remote="nutsboard-github" revision="nutsboard_N7.1.1_1.0.0-ga" />
 
   <!-- projects added by NutsBoard -->
